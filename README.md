@@ -39,13 +39,6 @@ Caso 3 – 25% de descuento
 | Luis   |   35 |      4 |              36.000 | 9.000 (25%) |        27.000 |
 
 
-Casos de borde (verifican la lógica exacta)
-| Nombre | Edad | Tarros | Descuento Esperado |
-| ------ | ---: | -----: | ------------------ |
-| Edad18 |   18 |      1 | 15%                |
-| Edad30 |   30 |      2 | 15%                |
-| Edad31 |   31 |      2 | 25%                |
-
 Ejercicio 2: Login de Usuarios
 
 Objetivo: Validar el acceso según usuario y contraseña predefinida en el servidor.
