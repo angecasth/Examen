@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <title>Examen - Menú</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='css/styles.css') }}">
+</head>
+<body>
+    <div class="container">
+        <h1>Examen</h1>
+        <p>Selecciona un ejercicio:</p>
+
+        <div class="menu-botones">
+            <a class="btn btn-ej1" href="{{ url_for('ejercicio1') }}">Ejercicio 1</a>
+            <a class="btn btn-ej2" href="{{ url_for('ejercicio2') }}">Ejercicio 2</a>
+        </div>
+    </div>
+</body>
+</html>
