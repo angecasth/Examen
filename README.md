@@ -1,6 +1,6 @@
 Guía de Pruebas – Examen Flask
 
-Autora: Ángela Zárate – Naturopatía
+Autora: Angela Zarate – Naturopatía
 
 A continuación se detallan las pruebas sugeridas para verificar el funcionamiento de los dos ejercicios desarrollados en Flask: Compra de Pintura y Login de Usuarios.
 
